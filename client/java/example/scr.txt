@@ -1,0 +1,7 @@
+info
+show
+hel
+print_unique_health
+print_unique_heath
+print_field_descending_melee_weapon
+remove_by_id 89783
